@@ -1,0 +1,7 @@
+前幾次commit的內容拼字拼錯了
+想要修改卻發生各種問題
+參考
+https://gitbook.tw/chapters/rewrite-history/change-commit-message.html
+https://www.jianshu.com/p/fb5a271d2cc0
+https://stackoverflow.com/questions/40201437/git-different-commits-each-respectively-use-git-pull-to-merge-the-remote
+才修正成功
